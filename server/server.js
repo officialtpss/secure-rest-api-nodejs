@@ -3,7 +3,7 @@ function start() {
     app = express(),
     path = require("path"),
     bodyParser = require('body-parser'),
-    port = 5001;
+    port = 5000;
 
   app.all('*', function (req, res, next) {
     res.set('Access-Control-Allow-Origin', '*');

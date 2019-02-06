@@ -1,8 +1,10 @@
 # Secure-rest-api-nodejs
 Bearer Authentication, Express, JOI, JWT Token, Mongo DB, Mongoose, Response DTO, REST Api, Schema Validator
 
-# Dependencies Library
-npm install
+# npm install
+To install dependencies library
 
-# Run Project Command
-node app.js
+# node app.js 
+Runs the app <br> 
+Open http://localhost:5000
+
