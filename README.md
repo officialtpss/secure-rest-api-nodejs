@@ -1,10 +1,11 @@
 # Secure-rest-api-nodejs
-Bearer Authentication, Express, JOI, JWT Token, Mongo DB, Mongoose, Response DTO, REST Api, Schema Validator
+Bearer Authentication, Express, JOI, JWT Token, MongoDB, Mongoose, Response DTO, REST Api, Schema Validator
 
-# npm install
-To install dependencies library
+# To install dependencies library 
+**npm install**
 
-# node app.js 
+# Run Command
+**node app.js**
 Runs the app <br> 
 Open http://localhost:5000
 
