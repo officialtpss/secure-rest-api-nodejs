@@ -5,7 +5,7 @@ Bearer Authentication, Express, JOI, JWT Token, MongoDB, Mongoose, Response DTO,
 **npm install**
 
 # Run Command
-**node app.js**
+**node app.js**  <br> 
 Runs the app <br> 
 Open http://localhost:5000
 
